@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (2.0.2)
+  - AnimatedGIFImageSerialization (0.2.0)
+  - DynamicColor (2.3.0)
+  - MapleBacon (2.0.7)
+  - PWLoadMoreTableFooter (1.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 2.0)
+  - AnimatedGIFImageSerialization (~> 0.2.0)
+  - DynamicColor (~> 2.1)
+  - MapleBacon
+  - PWLoadMoreTableFooter (~> 1.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
+  AnimatedGIFImageSerialization: b0f0cfe71eac1ee45a3d57ae533c23b8e6f29501
+  DynamicColor: 18badd22ee5edeefcbe0a8f5887a86640c592a1c
+  MapleBacon: be3192c52f95f4e1b6e6e8aa8d666cedeb207430
+  PWLoadMoreTableFooter: 09216c21bd5bdf7d4dee38e5ebc460272e64e570
+
+COCOAPODS: 0.39.0
